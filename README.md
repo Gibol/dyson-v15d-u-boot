@@ -13,7 +13,7 @@ I'm not sure if there is any communication between the vacuum and the submarine 
 So, if the only requirement is to power the roller head and there is no way to make it work with actual functioning Dyson vaccum, the only logical way was to make new (non sucking) dumb dyson vacuum model
 
 # (not)Dyson V15d U-Boot
-<photo>
+![U-Boot](whole.jpg?raw=true "notDyson V15d U-Boot")
 
 ## Parts
 Basically you will only need two parts:
