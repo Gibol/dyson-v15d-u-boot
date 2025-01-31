@@ -27,6 +27,10 @@ Dyson sumbarine head is rated for 16.2V 45W.
 Set the DC-DC converter voltage to 16.5-16.8V to compensate for voltage drops.
 If your DC-DC converter has current limiting capabilities set it to maximum, we don't need to limit the current.
 
+## Battery
+If your battery is dead or if you want to prevent the invitable death of you dyson battery, I recommend flashing alternative firmware to it: https://github.com/tinfever/FU-Dyson-BMS
+This is not necessary if your battery is operational.
+
 ## Connecting junk together
 I've used heatgun to shape the wand attachement to fit inside the v6 body (removing some insides of the body was necessary),  I've drowned it in hot glue to the point that it's not going anywhere and became almost a solid block.
 But you do you, release your creativity and try to use whatever is available or suitable for you.
